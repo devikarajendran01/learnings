@@ -20,3 +20,9 @@
 /CodeFirstApiProject/.vs/CodeFirstApiProject
 /CodeFirstApiProject/bin
 /CodeFirstApiProject/obj
+/DependancyServiceDemo/.vs/DependancyServiceDemo
+/DependancyServiceDemo/DependancyServiceDemo/bin/Debug/netstandard2.0
+/DependancyServiceDemo/DependancyServiceDemo/obj
+/DependancyServiceDemo/DependancyServiceDemo.Android/bin/Debug
+/DependancyServiceDemo/DependancyServiceDemo.Android/obj
+/DependancyServiceDemo/DependancyServiceDemo.iOS/obj
