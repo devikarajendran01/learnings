@@ -33,3 +33,6 @@
 /ConsumeCodeFirstApi/ConsumeCodeFirstApi.Android/obj
 /ConsumeCodeFirstApi/ConsumeCodeFirstApi.iOS/bin/iPhoneSimulator/Debug
 /ConsumeCodeFirstApi/ConsumeCodeFirstApi.iOS/obj
+/WebApplication2/.vs/WebApplication2
+/WebApplication2/bin/Debug/netcoreapp2.1
+/WebApplication2/obj
